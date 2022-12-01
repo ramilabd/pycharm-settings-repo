@@ -1,7 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account name="ramilabd" id="c8462dda-95d5-41bc-b738-ac48434686c1">
+    <account name="ramilabd" id="cfc3e068-6beb-49d8-bdcb-a94a8b5e9d6e">
       <server host="github.com" />
     </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CONNECTION_TIMEOUT" value="3000" />
   </component>
 </application>
