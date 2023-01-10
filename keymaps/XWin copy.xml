@@ -8,9 +8,15 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorCompleteStatement" />
   <action id="EditorSelectWord" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="ToggleFullScreen">
     <mouse-shortcut keystroke="control button3 doubleClick" />
   </action>
